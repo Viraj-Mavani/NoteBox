@@ -2,6 +2,8 @@
 
 An application to keep notes with online backup. It uses Firebase to store the data. You can lable your note and Random colors.
 
+ftp://admin:admin@192.168.43.1:28456/sdcard/DCIM/Screenshots/Screenshot_2022-06-07-01-46-10-061_com.example.note_box.jpg
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
