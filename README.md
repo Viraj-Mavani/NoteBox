@@ -1,6 +1,6 @@
 # Note Box
 
-An application to keep notes with online backup. It uses Firebase to store the data. You can lable your note and Random colors.
+An application to keep notes with online backup. It uses Firebase to store the data. You can label your note and Random colors.
 
 <img src="https://user-images.githubusercontent.com/66798733/172367029-eda0977d-a81e-4e98-80d5-0f5227fb2349.jpg" width="190"> <img src="https://user-images.githubusercontent.com/66798733/172367059-eca35e76-d40e-427e-b9e8-ec7a9159aac1.jpg" width="190"> 
 <img src="https://user-images.githubusercontent.com/66798733/172367066-fa6c8f4f-1cb2-4b97-8148-e7adcfe7118b.jpg" width="190">
