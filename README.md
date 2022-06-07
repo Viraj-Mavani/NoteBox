@@ -1,6 +1,6 @@
 # Note Box
 
-An application to keep notes and TODO list.
+An application to keep notes with online backup. It uses Firebase to store the data. You can lable your note and Random colors.
 
 ## Getting Started
 
