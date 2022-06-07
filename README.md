@@ -1,4 +1,4 @@
-# note_box
+# Note Box
 
 An application to keep notes and TODO list.
 
