@@ -2,7 +2,12 @@
 
 An application to keep notes with online backup. It uses Firebase to store the data. You can lable your note and Random colors.
 
-ftp://admin:admin@192.168.43.1:28456/sdcard/DCIM/Screenshots/Screenshot_2022-06-07-01-46-10-061_com.example.note_box.jpg
+![Screenshot_2022-06-07-16-45-59-180_com example note_box](https://user-images.githubusercontent.com/66798733/172367029-eda0977d-a81e-4e98-80d5-0f5227fb2349.jpg)
+![Screenshot_2022-06-07-16-46-05-738_com example note_box](https://user-images.githubusercontent.com/66798733/172367059-eca35e76-d40e-427e-b9e8-ec7a9159aac1.jpg)
+![Screenshot_2022-06-07-16-46-33-879_com example note_box](https://user-images.githubusercontent.com/66798733/172367066-fa6c8f4f-1cb2-4b97-8148-e7adcfe7118b.jpg)
+![Screenshot_2022-06-07-16-46-41-638_com example note_box](https://user-images.githubusercontent.com/66798733/172367075-c6424812-1c3b-468a-a804-9b52a67840e1.jpg)
+![Screenshot_2022-06-07-16-46-57-484_com example note_box](https://user-images.githubusercontent.com/66798733/172367082-80825e2b-ca49-402c-9cd2-9ac231d93e1c.jpg)
+
 
 ## Getting Started
 
